@@ -162,7 +162,7 @@ window.onload=relayout;
 	<img id="bg"  src="img/cj.png" style="display:block;position:absolute; width:100%;left:0px; margin-top:0px; margin-left:0px;top:0px;z-index: -1;" />	
 	<div id="inputlayer"  onselectstart="return false" align="bottom" style="position: absolute;float: left;left:7.8%;top:73.3%; width:92.2%" >
 	
-	  <textarea id="inputview" class="comments"  readonly  style="poistion:absolute; font: normal Helvetica, Arial, sans-serif; width:58.8%; font-size:13px;">在长江，见木又见林   <?php // echo $row['content']; ?></textarea>
+	  <textarea id="inputview" class="comments"  readonly  style="poistion:absolute; font: normal Helvetica, Arial, sans-serif; width:58.8%; font-size:13px;">在长江，见木又见林 <?php // echo $row['content']; ?></textarea>
 	</div>
 	     
 	<div id="buttonlayer" align="bottom"  style=" position: absolute;bottom:0;left:7.3%; width:92%" >

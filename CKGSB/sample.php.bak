@@ -158,7 +158,7 @@ window.onload=relayout;
 
 </script>
 
-	<img id="imgInit" src="img/bg1.png" style='display:block;position:absolute;left:0px; width:100%;height:100% margin-top:0px; margin-left:0px; left:0px;top:0px;z-index:-1;'/>
+	<img id="imgInit" src="" style='display:block;position:absolute;left:0px; width:100%;height:100% margin-top:0px; margin-left:0px; left:0px;top:0px;z-index:-1;'/>
 	<img id="bg"  src="img/cj.png" style="display:block;position:absolute; width:100%;left:0px; margin-top:0px; margin-left:0px;top:0px;z-index: -1;" />	
 	<div id="inputlayer"  onselectstart="return false" align="bottom" style="position: absolute;float: left;left:7.8%;top:73.3%; width:92.2%" >
 	

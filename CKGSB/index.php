@@ -2,7 +2,7 @@
 require_once "jssdk.php";
 require_once "conn.php";
 header("Content-type:text/html;charset=utf-8");
-$jssdk = new JSSDK("wx91996f1c5be719ae", "f90d1b6820f562a7a5bd6537073e822c");
+$jssdk = new JSSDK("", "");
 //$jssdk = new JSSDK("wxdfb315b37c78a39c", "2d8b10a0bb4ccf9eb60b04587ca873e4");
 $signPackage = $jssdk->GetSignPackage();
 ?>

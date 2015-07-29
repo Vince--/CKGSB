@@ -175,7 +175,7 @@ document.form.submit();
    
     upload();
 }
-var images = {
+/*var images = {
     localId: [],
     serverId: []
   };
@@ -191,7 +191,7 @@ var images = {
 		img_src="update/"+js_id+".jpg";
 		//alert(img_src);
 		  document.getElementById('imgInit').src = img_src; 
-	}	
+	}	*/
 
 	/*$(document).ready( function (){
 	      $( "#i_1" ).load( function(){

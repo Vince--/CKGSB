@@ -107,8 +107,8 @@ border:0px;
     wx.onMenuShareAppMessage({
       title: '在长江，见木又见林',
       desc: '记录你在长江学习的点滴，分享你在长江留下的印记',
-      link: 'http://www.ckgsb.com/zt/eeweixin/sample.php?id=<?php echo $lastid;?>&imgid=<?php echo $imgid  ?>',
-      imgUrl: 'http://www.ckgsb.com/zt/eeweixin/img/show.png',
+      link: 'http://www.ckgsb.com/zt/eeweixin_blue/sample.php?id=<?php echo $lastid;?>&imgid=<?php echo $imgid  ?>',
+      imgUrl: 'http://www.ckgsb.com/zt/eeweixin_blue/img/show.png',
       trigger: function (res) {
     //    alert('用户点击发送给朋友');
       },
